@@ -34,3 +34,8 @@ PROS:
 
 CONS:
 --> Bit less safe than synchronous
+
+< ------------------------------------------------------------------------------------------->
+
+[Requirements]
+- Knowledge of Linux terminals!
